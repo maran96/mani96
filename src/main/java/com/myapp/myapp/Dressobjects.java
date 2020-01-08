@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Dressobjects extends BasePage {
 	@FindBy(xpath="(//a[@title='Dresses'])[2]")
-	private WebElement dresses123;
+	private WebElement dresses125;
 
    @FindBy(xpath="//a[@href='http://automationpractice.com/index.php?id_category=8&controller=category#size-s']")
 	private WebElement s;
