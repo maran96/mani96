@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28088" started-at="2020-01-08T03:27:06Z" finished-at="2020-01-08T03:27:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28088" started-at="2020-01-08T03:27:06Z" finished-at="2020-01-08T03:27:34Z">
+      <class name="com.myapp.myapp.Dresstest">
+        <test-method status="PASS" signature="verifycheckbox()[pri:0, instance:com.myapp.myapp.Dresstest@342c38f8]" name="verifycheckbox" duration-ms="5413" started-at="2020-01-08T08:57:18Z" finished-at="2020-01-08T08:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycheckbox -->
+        <test-method status="PASS" signature="verifycart()[pri:0, instance:com.myapp.myapp.Dresstest@342c38f8]" name="verifycart" duration-ms="10889" started-at="2020-01-08T08:57:23Z" finished-at="2020-01-08T08:57:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+      </class> <!-- com.myapp.myapp.Dresstest -->
+      <class name="com.myapp.myapp.Tests">
+        <test-method status="PASS" signature="verifydress()[pri:0, instance:com.myapp.myapp.Tests@2c35e847]" name="verifydress" duration-ms="1251" started-at="2020-01-08T08:57:06Z" finished-at="2020-01-08T08:57:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydress -->
+        <test-method status="PASS" signature="verifynl()[pri:0, instance:com.myapp.myapp.Tests@2c35e847]" name="verifynl" duration-ms="4526" started-at="2020-01-08T08:57:07Z" finished-at="2020-01-08T08:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifynl -->
+        <test-method status="PASS" signature="verifytabs()[pri:0, instance:com.myapp.myapp.Tests@2c35e847]" name="verifytabs" duration-ms="204" started-at="2020-01-08T08:57:12Z" finished-at="2020-01-08T08:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytabs -->
+        <test-method status="PASS" signature="verifytshirt()[pri:0, instance:com.myapp.myapp.Tests@2c35e847]" name="verifytshirt" duration-ms="2230" started-at="2020-01-08T08:57:12Z" finished-at="2020-01-08T08:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytshirt -->
+        <test-method status="PASS" signature="verifywomen()[pri:0, instance:com.myapp.myapp.Tests@2c35e847]" name="verifywomen" duration-ms="3540" started-at="2020-01-08T08:57:14Z" finished-at="2020-01-08T08:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywomen -->
+      </class> <!-- com.myapp.myapp.Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
